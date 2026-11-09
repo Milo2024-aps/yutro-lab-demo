@@ -1,0 +1,40 @@
+YUTRO LAB — ELEVATOR CHALLENGE
+Hoja de trabajo de la primera lección local
+Actividad didáctica nueva basada en archivos del proyecto. No es un registro histórico de producción ni una licencia para redistribuir originales o música.
+
+1. INTENCIÓN
+¿Qué gesto quiero leer? ¿Qué objeto debe mantenerse reconocible?
+Mi respuesta:
+
+2. IMAGEN
+¿La mirada, la mano y el objeto coinciden con lo que pedí?
+Qué conservo:
+Qué corregiría antes de animar:
+
+3. REFERENCIA Y RESULTADO
+Video de referencia propio o autorizado:
+Inicio / gesto amplio / final: ¿qué ocurre con hombros, mano libre y objeto?
+Mi observación:
+Qué variable cambiaré en la siguiente prueba:
+
+4. SELECCIÓN Y MONTAJE
+Fragmento elegido:
+Por qué sirve:
+Fragmento descartado y motivo:
+¿Las uniones funcionan sin música?
+Audio propio/autorizado o exportación sin audio:
+
+REGISTRO DE MI PRUEBA
+Herramienta y versión que realmente utilicé:
+Prompt exacto:
+Ajustes realmente usados (dejar “no registrado” cuando corresponda):
+Archivo obtenido:
+Resultado y siguiente decisión:
+
+EVIDENCIA DEL CASO
+- El PNG da3b5531… guarda --ar 9:16 --raw --v 7.
+- El chat inicial proponía 3:4 y s250. No se atribuyen esos ajustes al PNG recuperado.
+- Test motion tracker.mp4 muestra referencia grabada y personaje animado.
+- Milo describe transferencia de movimiento y postproducción.
+- La versión y ajustes exactos de Kling y el vínculo job a job siguen sin confirmar.
+- Los videos de esta revisión local no contienen pista de audio.

@@ -1,0 +1,44 @@
+YUTRO LAB — Silverado / Google Flow
+Hoja de continuidad para práctica. Primera edición local.
+
+Esta hoja es una actividad nueva, no un registro histórico de producción de Milo.
+Puedes completarla mirando los ejemplos, sin generar videos ni gastar créditos.
+
+1. INTENCIÓN
+¿Qué debería reconocer el espectador en los dos planos?
+
+2. LO QUE MANTENGO
+Sujeto y silueta:
+Color y detalles importantes:
+Luz y entorno:
+
+3. LO QUE CAMBIO
+Una decisión de encuadre o movimiento:
+Qué espero observar:
+
+4. COMPARACIÓN
+Plano A — inicio / mitad / final:
+Plano B — inicio / mitad / final:
+Qué se conserva:
+Qué cambia y rompe continuidad:
+Qué no puedo comprobar desde este ángulo:
+
+5. SELECCIÓN Y CORRECCIÓN
+Fragmento elegido y motivo:
+Fragmento descartado y motivo:
+Siguiente cambio concreto para probar:
+
+6. MI EJECUCIÓN (solo si genero)
+Herramienta / versión que realmente usé:
+Prompt enviado, no solo borrador:
+Controles / duración / seed, o «no registrado»:
+Archivos obtenidos:
+Decisión de corte y resultado:
+
+FUENTES Y LÍMITES
+Los videos de LAB proceden de la carpeta original Chevrolet / silverado.
+El prompt mostrado es una propuesta histórica del chat, no un ajuste ejecutado certificado.
+Milo confirmó que Silverado fue realizado en Google Flow. Presentó el reel como experimento sin fines comerciales.
+La versión de Veo, los parámetros y la relación prompt–clip siguen sin confirmación.
+No se entrega una licencia de marca o música. Practica con un objeto propio o sin marca.
+Los ejemplos de revisión no contienen audio. Usa sonido propio o autorizado si publicas tu práctica.

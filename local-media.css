@@ -1,0 +1,69 @@
+/* Local media review. Preserve the approved layout and typography. */
+.real-cover{position:relative;overflow:hidden;background:#20221f}
+.real-cover img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+.real-cover.portrait-cover img{object-position:50% 72%}
+.real-cover .art-label{background:#111e;color:#fff;padding:7px 9px;left:12px;bottom:12px;max-width:calc(100% - 24px);font-size:11px}
+.is-project .preview-visual .real-cover .art-label{font-size:11px;line-height:1.4}
+.result-media{margin:16px 0 24px;min-width:0}
+.result-media video{display:block;width:100%;max-width:100%;aspect-ratio:16/9;background:#080808;object-fit:contain}
+.result-media.portrait-media video{aspect-ratio:9/16;max-height:70vh}
+.result-media figcaption,.media-feedback{font-size:14px;line-height:1.6;margin-top:12px;color:#c8c7bd}
+.media-feedback{border-left:2px solid var(--orange,#f47543);padding:12px}
+.real-detail .split>*{min-width:0}
+.media-provenance{overflow-wrap:anywhere;font-size:13px;line-height:1.8}
+.process-disclosure{border-top:1px solid #777;padding:18px 0}
+.process-disclosure summary,.production-evidence summary{min-height:44px;cursor:pointer;padding:10px 0}
+.production-evidence{margin-top:56px;max-width:900px}
+.production-evidence dl>div{border-top:1px solid #777;padding:24px 0;display:grid;grid-template-columns:180px 1fr;gap:24px}
+.production-evidence dt{font-weight:600}
+.production-evidence dd{margin:0;color:#c8c7bd;line-height:1.7}
+.production-evidence ul{padding-left:20px;overflow-wrap:anywhere}
+.real-detail .panel .nav-link{display:block;margin-top:20px;min-height:44px}
+.local-review-note{padding:10px 4.5%;margin:0;background:#25251e;color:#e8e6d8;font-size:13px;line-height:1.5}
+.pending-cover{padding:28px;display:flex;flex-direction:column;justify-content:center;gap:16px;background:#25251f;color:#e8e6d8}
+.pending-cover>span{font-size:11px;letter-spacing:.05em;color:#ffb18d}
+.pending-cover p{font-size:clamp(22px,2.5vw,32px);line-height:1.1;margin:0;letter-spacing:-.025em}
+.pending-cover small{font-size:12px;line-height:1.5;max-width:260px}
+.opening-pending>div{background:#25251f;display:flex;flex-direction:column;justify-content:center;padding:55px 22px 24px;gap:24px;min-width:0}
+.opening-pending>div>p{font-size:clamp(22px,2.7vw,37px);letter-spacing:-.035em;line-height:1.15;margin:0;overflow-wrap:anywhere}
+.opening-pending small{display:block;font-size:14px;line-height:1.6;letter-spacing:0;color:#c5c5b9;margin-top:12px}
+.opening-pending a{font-size:14px;line-height:1.5;display:flex;align-items:center;min-height:44px;border-bottom:1px solid #777}
+.protected-process{max-width:720px;margin-top:35px}.protected-process .portrait-media{max-width:420px}
+.elevator-cover img{object-position:50% 36%}
+.opening-pending>.elevator-opening-image{padding:0;min-height:390px;position:relative}
+.elevator-opening-image img{object-position:center 40%}
+.opening-pending>.elevator-opening-image a{position:absolute;inset:auto 0 0;background:#111e;color:#fff;padding:12px 18px;border:0}
+.elevator-video{max-width:420px}.elevator-video video{max-height:65vh}
+.elevator-still{margin:16px 0 24px;max-width:420px}.elevator-still img{display:block;width:100%;height:auto;max-height:65vh;object-fit:contain;background:#080808}
+.elevator-still figcaption{color:#c8c7bd;font-size:13px;line-height:1.6;margin-top:12px}
+.elevator-lesson .reader{grid-template-columns:240px minmax(0,1fr);gap:48px}.elevator-lesson article{min-width:0}
+.elevator-lesson .reader aside nav{display:flex;flex-direction:column;gap:0;margin:0;width:100%;align-items:stretch}
+.elevator-lesson .reader aside nav a{display:flex;align-items:center;min-height:48px;font-size:15px;line-height:1.4}
+.elevator-lesson article figcaption,.elevator-lesson article .lesson-sources dd{color:#5b5b54}
+.elevator-lesson article .prompt .eyebrow,.elevator-lesson article .prompt .muted{color:#c8c7bd}
+.elevator-lesson h1{font-size:clamp(36px,4.6vw,64px);line-height:1.04;overflow-wrap:anywhere}
+.lesson-lead{font-size:19px;max-width:720px}.lesson-evidence-grid{display:grid;grid-template-columns:minmax(200px,.85fr) minmax(220px,1fr);gap:28px;align-items:start;margin-top:32px}
+.lesson-evidence-grid h2,.lesson-actions h2{font-size:28px;margin-top:18px}.elevator-lesson h3{font-size:20px;margin-top:24px}
+.elevator-lesson p,.elevator-lesson li{line-height:1.7}.lesson-actions{border-top:1px solid #666;padding-top:28px;margin-top:30px}
+.lesson-actions ol{padding-left:24px}.lesson-actions li{padding:0 0 18px 8px}.lesson-resource-link{display:flex;align-items:center;min-height:48px;font-size:14px;margin-top:24px}
+.lesson-sources{border-block:1px solid #666;padding-block:16px;margin-block:30px}.lesson-sources summary{cursor:pointer;min-height:44px;padding:10px 0;line-height:1.5}
+.lesson-sources dt{font-weight:600;margin-top:20px}.lesson-sources dd{margin:8px 0;color:#c8c7bd;line-height:1.7}.lesson-sources code{overflow-wrap:anywhere}
+.elevator-lesson #prompttext{white-space:pre-wrap;overflow-wrap:anywhere;font-size:15px}.lesson-navigation .btn{white-space:normal}
+@media(max-width:1000px){.lesson-evidence-grid{grid-template-columns:1fr}.elevator-lesson .reader{gap:28px;grid-template-columns:200px minmax(0,1fr)}}
+@media(max-width:760px){.elevator-lesson .reader{display:block}.elevator-lesson .reader aside{position:static;margin-bottom:32px}.elevator-lesson .reader aside nav{display:grid;grid-template-columns:1fr 1fr;gap:6px}.elevator-lesson .reader aside nav a{padding:12px 8px;margin:0;border:1px solid #666;font-size:14px}.lesson-lead{font-size:17px}.opening-pending>.elevator-opening-image{min-height:270px}.elevator-lesson .prompt{padding:20px}.elevator-lesson .practice-grid{grid-template-columns:1fr}.elevator-detail .split{gap:28px}}
+@media(max-width:760px){.opening-pending{height:auto;min-height:260px}.opening-pending>div{padding:48px 14px 15px;gap:16px}.opening-pending>div>p{font-size:24px}.opening-pending small{font-size:12px}.opening-pending a{font-size:13px}}
+@media(max-width:480px){.opening-pending{grid-template-columns:1fr 1fr}.opening-pending>div{padding-inline:12px}.opening-pending>div>p{font-size:clamp(18px,5vw,22px);overflow-wrap:normal}.opening-pending a{font-size:13px}}
+@media(max-width:360px){.pending-cover{padding:22px}}
+@media(max-width:640px){.production-evidence dl>div{grid-template-columns:1fr;gap:8px}.real-detail h1{overflow-wrap:anywhere}.real-detail .btn{white-space:normal}.result-media.portrait-media video{max-height:65vh}}
+
+/* Second free lesson: reuse the approved reader, retain landscape frames. */
+.veo-video video{aspect-ratio:16/9;max-height:60vh}
+.veo-lesson .veo-video{margin-block:32px}.veo-lesson article>h2{font-size:28px;margin-top:32px}
+.veo-comparison{display:grid;grid-template-columns:1fr;gap:4px}
+.veo-lesson .prompt h2{font-size:28px;line-height:1.15}
+.veo-cover img{object-fit:contain;background:#101510}
+.opening-pending>.veo-opening-image{padding-inline:14px;gap:18px;justify-content:center}
+.opening-pending>.veo-opening-image>p{font-size:clamp(20px,2.1vw,29px)}
+.opening-pending>.veo-opening-image img{position:static;inset:auto;object-fit:contain;height:auto;width:100%}
+.veo-detail .split>div:nth-child(2)>h1{font-size:clamp(46px,5vw,72px);line-height:1.03}
+@media(max-width:480px){.opening-pending>.veo-opening-image{padding-inline:10px;gap:14px}.opening-pending>.veo-opening-image>p{font-size:20px}.veo-detail .split>div:nth-child(2)>h1{font-size:46px}}
